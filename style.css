@@ -1,0 +1,7 @@
+body { font-family: sans-serif; background: #f0f5ff; }
+.container { margin: 100px auto; width: 340px; background: #fff; padding: 28px; border-radius: 5px; box-shadow: 0 0 10px #bbb; }
+h2 { margin-bottom: 24px; }
+#linkBox { margin-top: 24px; color: #065c11; }
+button { padding: 8px 20px; }
+input[type="text"] { margin: 6px 0; padding: 2px 8px; font-size:16px; }
+img { margin-top:12px; }
